@@ -187,7 +187,7 @@ a.contact{
     display: flex;
     flex-direction: column;
     justify-content: center;
-    padding: 0;
+    padding: 0 11rem;
     line-height: 1.5;
 
 }
@@ -509,7 +509,7 @@ picture.photo img{
 
     .main-text{
         text-align: center;
-        padding: 0 11rem;
+        padding: 0;
         align-items: center;
     }
 
