@@ -187,7 +187,7 @@ a.contact{
     display: flex;
     flex-direction: column;
     justify-content: center;
-    padding: 12rem;
+    padding: 0 11rem;
     line-height: 1.5;
 
 }
